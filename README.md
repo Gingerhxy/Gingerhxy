@@ -6,12 +6,9 @@ I am **Gingerhxy**.
 * MA: UCAS AIRCAS(In progress)  
 * PhD: To be updated
 
-👀 I'm interested in Signal Processing, Deep Learning, Synthetic Aperture Radar, Image Processing, Integrated Circuits ，Python，C++ ...
++ :microscope: I'm interested in Signal Processing, Deep Learning, Synthetic Aperture Radar, Image Processing, Integrated Circuits ，Python，C++ ...
 
-### Github Stats
-
-| <a href="https://github.com/Gingerhxy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gingerhxy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Gingerhxy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gingerhxy&layout=compact&theme=buefy&hide_border=true" /></a> |
-| - | - |
+- :mailbox: Email: [**huxinyu1726@163.com**](mailto:1820988819@qq.com).
 
 
 <!---
