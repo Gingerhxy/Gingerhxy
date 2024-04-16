@@ -1,4 +1,5 @@
-Hi there 👋 
+Hi there :wave:  
+
 I’m @Gingerhxy
 + BA:NUDT
 + MA:UCAS AIRCAS(In progress)
