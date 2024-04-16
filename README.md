@@ -13,9 +13,6 @@ I am **Gingerhxy**.
 | <a href="https://github.com/Gingerhxy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gingerhxy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Gingerhxy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gingerhxy&layout=compact&theme=buefy&hide_border=true" /></a> |
 | - | - |
 
-### Leetcode Stats
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.cn/u/gingerhxy/)
 
 <!---
 Gingerhxy/Gingerhxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
