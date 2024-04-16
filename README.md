@@ -1,4 +1,5 @@
-👋 Hi, I’m @Gingerhxy
+Hi there 👋 
+I’m @Gingerhxy
 + BA:NUDT
 + MA:UCAS AIRCAS(In progress)
 + PhD:To be updated
