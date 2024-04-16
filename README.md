@@ -15,16 +15,7 @@ I am **Gingerhxy**.
 
 ### Leetcode Stats
 
-[![](https://leetcode-badge.haozibi.dev/v1cn/allenem.svg?logo=leetcode)](https://leetcode.cn/u/allenem/) 
-[![](https://leetcode-badge.haozibi.dev/v1cn/ranking/allenem.svg?logo=leetcode)](https://leetcode.cn/u/allenem/) 
-[![](https://leetcode-badge.haozibi.dev/v1cn/solved/allenem.svg?logo=leetcode)](https://leetcode.cn/u/allenem/) 
-[![](https://leetcode-badge.haozibi.dev/v1cn/solved-rate/allenem.svg?logo=leetcode)](https://leetcode.cn/u/allenem/) 
-[![](https://leetcode-badge.haozibi.dev/v1cn/accepted/allenem.svg?logo=leetcode)](https://leetcode.cn/u/allenem/) 
-[![](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/allenem.svg?logo=leetcode)](https://leetcode.cn/u/allenem/)
-[![](https://leetcode-badge.haozibi.dev/v1cn/card/question-process/allenem.svg?lang=en&logo=leetcode)](https://leetcode.cn/u/allenem/)
-<!--[![](https://leetcode-badge.haozibi.dev/v1cn/card/contest-ranking/allenem.svg?logo=leetcode)](https://leetcode.cn/u/allenem/)-->
-[![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/allenem.svg?type=past-year&color=yellow&logo=leetcode)](https://leetcode.cn/u/allenem/)
-
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.cn/u/gingerhxy/)
 
 <!---
 Gingerhxy/Gingerhxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
