@@ -1,6 +1,6 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I am **YGingerhxy**. 
+I am **Gingerhxy**. 
 
 + BA: NUDT
 + MA: UCAS AIRCAS(In progress)
