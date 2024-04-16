@@ -2,9 +2,9 @@
 
 I am **Gingerhxy**. 
 
-+ BA: NUDT
-+ MA: UCAS AIRCAS(In progress)
-+ PhD: To be updated
++ BA: NUDT  
++ MA: UCAS AIRCAS(In progress)  
++ PhD: To be updated  
 👀 I'm interested in Signal Processing, Deep Learning, Synthetic Aperture Radar, Image Processing, Integrated Circuits ，Python，C++ ...
 
 
