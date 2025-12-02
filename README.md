@@ -6,7 +6,7 @@ I am **Gingerhxy**.
 * MA: UCAS AIRCAS(In progress)  
 * PhD: To be updated
 
-+ :microscope: Research area: **Synthetic Aperture Radar**, **Integrated Circuits**, **Signal Processing**, **Deep Learning**, **C**, **Python**...
++ :microscope: Research area: **Synthetic Aperture Radar**, **Integrated Circuits**, **Signal Processing**, **Deep Learning**...
 
 + :mailbox: Email: [**huxinyu1726@163.com**](mailto:1820988819@qq.com).
 
